@@ -89,6 +89,9 @@ body {
     display: flex;    
     align-items: center;
     font-size: 30px;
+    position: fixed;
+    top:10;
+    left: 68%;
 }
 .score-main {
     display: flex;
